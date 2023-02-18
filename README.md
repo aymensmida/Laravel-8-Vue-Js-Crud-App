@@ -7,7 +7,7 @@ Easy Way to Set Up Vue Js in Laravel 8
 
 1-Clone the repository
 ```
-https://github.com/aymensmida/Laravel-8-Vue-Js-Crud-App.git
+git clone https://github.com/aymensmida/Laravel-8-Vue-Js-Crud-App.git
 ```
 
 2- cd into the folder with this command:
